@@ -1,0 +1,343 @@
+[
+  {
+    "context": "Albert Einstein, born on 14 March 1879, was a German-born theoretical physicist widely considered one of the greatest and most influential scientists of all time.",
+    "instruction": "Who is Albert Einstein?"
+  },
+  {
+    "context": "Best known for developing the theory of relativity, Einstein also made important contributions to quantum mechanics.",
+    "instruction": "What is Albert Einstein best known for?"
+  },
+  {
+    "context": "Einstein's mass-energy equivalence formula (E=mc^2) is considered the world's most famous equation.",
+    "instruction": "Explain Einstein's mass-energy equivalence formula."
+  },
+  {
+    "context": "In 1921, Einstein received the Nobel Prize in Physics for his services to theoretical physics and the discovery of the photoelectric effect.",
+    "instruction": "Why did Albert Einstein receive the Nobel Prize in Physics in 1921?"
+  },
+  {
+    "context": "Einstein's work has had a significant impact on the philosophy of science.",
+    "instruction": "How has Einstein's work influenced the philosophy of science?"
+  },
+  {
+    "context": "In 1999, a poll of 130 leading physicists ranked Einstein as the greatest physicist of all time.",
+    "instruction": "Why was Einstein ranked the greatest physicist in 1999?"
+  },
+  {
+    "context": "Einstein was born in the German Empire but moved to Switzerland in 1895, forsaking his German citizenship.",
+    "instruction": "Why did Einstein move to Switzerland in 1895?"
+  },
+  {
+    "context": "In 1901, Einstein acquired Swiss citizenship, which he kept for the rest of his life.",
+    "instruction": "When did Albert Einstein acquire Swiss citizenship?"
+  },
+  {
+    "context": "In 1914, Einstein moved to Berlin to join the Prussian Academy of Sciences and the Humboldt University of Berlin.",
+    "instruction": "Why did Einstein move to Berlin in 1914?"
+  },
+  {
+    "context": "In 1917, Einstein became the director of the Kaiser Wilhelm Institute for Physics.",
+    "instruction": "What position did Einstein assume in 1917?"
+  }
+  ,
+  {
+    "context": "In 1933, while visiting the United States, Adolf Hitler came to power in Germany.",
+    "instruction": "What happened in 1933 when Einstein was in the United States?"
+  },
+  {
+    "context": "Horrified by the Nazi 'war of extermination' against his fellow Jews, Einstein decided to remain in the US and was granted American citizenship in 1940.",
+    "instruction": "Why did Einstein decide to remain in the US in 1940?"
+  },
+  {
+    "context": "On the eve of World War II, Einstein endorsed a letter to President Franklin D. Roosevelt, alerting him to the potential German nuclear weapons program and recommending that the US begin similar research.",
+    "instruction": "What did Einstein do on the eve of World War II regarding nuclear weapons?"
+  },
+  {
+    "context": "Einstein supported the Allies but generally viewed the idea of nuclear weapons with great dismay.",
+    "instruction": "How did Einstein feel about nuclear weapons during World War II?"
+  },
+  {
+    "context": "In 1905, known as his annus mirabilis (miracle year), Einstein published four groundbreaking papers.",
+    "instruction": "What happened in Einstein's annus mirabilis in 1905?"
+  },
+  {
+    "context": "These papers outlined a theory of the photoelectric effect, explained Brownian motion, introduced his special theory of relativity, and demonstrated that mass and energy are equivalent.",
+    "instruction": "What were the key points in Einstein's papers of 1905?"
+  },
+  {
+    "context": "In 1915, Einstein proposed a general theory of relativity that extended his system of mechanics to incorporate gravitation.",
+    "instruction": "What did Einstein propose in 1915 regarding the theory of relativity?"
+  },
+  {
+    "context": "During the middle part of his career, Einstein made important contributions to statistical mechanics and quantum theory, particularly in the quantum physics of radiation.",
+    "instruction": "What contributions did Einstein make to quantum theory in the middle part of his career?"
+  },
+  {
+    "context": "In the last phase of his academic life, Einstein worked on two unsuccessful endeavors: opposing the fundamental randomness in quantum theory and attempting to devise a unified field theory.",
+    "instruction": "What were the two unsuccessful endeavors Einstein worked on in the last phase of his academic life?"
+  },
+  {
+    "context": "Albert Einstein was born in Ulm, in the Kingdom of Württemberg in the German Empire, on 14 March 1879.",
+    "instruction": "Where and when was Albert Einstein born?"
+  },
+  {
+    "context": "His parents, secular Ashkenazi Jews, were Hermann Einstein, a salesman and engineer, and Pauline Koch.",
+    "instruction": "Who were Albert Einstein's parents?"
+  },
+  {
+    "context": "In 1880, the family moved to Munich's borough of Ludwigsvorstadt-Isarvorstadt, where Einstein's father and his uncle Jakob founded Elektrotechnische Fabrik J. Einstein & Cie, a company that manufactured electrical equipment based on direct current.",
+    "instruction": "What did Einstein's family do when they moved to Munich in 1880?"
+  },
+  {
+    "context": "Albert attended a Catholic elementary school in Munich from the age of five.",
+    "instruction": "Where did Albert Einstein attend school from the age of five?"
+  },
+  {
+    "context": "When he was eight, he was transferred to the Luitpold-Gymnasium (now known as the Albert-Einstein-Gymnasium), where he received advanced primary and then secondary school education.",
+    "instruction": "Where did Albert Einstein go to school when he was eight?"
+  },
+  {
+    "context": "In 1894, Hermann and Jakob's company tendered for a contract to install electric lighting in Munich, but without success due to lacking capital for updating their technology to the more efficient alternating current alternative.",
+    "instruction": "Why did Hermann and Jakob's company fail to secure the contract in 1894?"
+  },
+  {
+    "context": "The failure of the bid forced them to sell their Munich factory and search for new opportunities elsewhere.",
+    "instruction": "What was the consequence of the failure of the bid for Hermann and Jakob's company?"
+  },
+  {
+    "context": "The Einstein family moved to Italy, first to Milan and later to Pavia, where they settled in Palazzo Cornazzani.",
+    "instruction": "Where did the Einstein family move after selling their Munich factory?"
+  },
+  {
+    "context": "Einstein, then fifteen, stayed behind in Munich to finish his schooling.",
+    "instruction": "Why did Einstein stay behind in Munich when his family moved to Italy?"
+  },
+  {
+    "context": "Einstein excelled at physics and mathematics from an early age, teaching himself algebra, calculus, and Euclidean geometry when he was twelve.",
+    "instruction": "What subjects did Einstein teach himself at the age of twelve?"
+  },
+  {
+    "context": "A family tutor, Max Talmud, noted that Einstein had mastered integral and differential calculus at the age of fourteen.",
+    "instruction": "When did Einstein master integral and differential calculus according to Max Talmud?"
+  },
+  {
+    "context": "In 1895, at the age of sixteen, Einstein sat the entrance examination for the Federal Polytechnic School in Zürich, Switzerland.",
+    "instruction": "When did Einstein take the entrance examination for the Federal Polytechnic School?"
+  },
+  {
+    "context": "He failed to reach the required standard in the general part of the test but performed with distinction in physics and mathematics.",
+    "instruction": "How did Einstein perform in the entrance examination for the Federal Polytechnic School?"
+  },
+  {
+    "context": "On the advice of the polytechnic's principal, he completed his secondary education at the Argovian Cantonal School in Aarau, Switzerland, graduating in 1896.",
+    "instruction": "Why did Einstein complete his secondary education at the Argovian Cantonal School?"
+  },
+  {
+    "context": "In January 1896, Einstein renounced his citizenship of the German Kingdom of Württemberg to avoid conscription into military service.",
+    "instruction": "Why did Einstein renounce his citizenship in 1896?"
+  },
+  {
+    "context": "At seventeen, he enrolled in the four-year mathematics and physics teaching diploma program at the Federal Polytechnic School.",
+    "instruction": "What program did Einstein enroll in at the age of seventeen?"
+  },
+  {
+    "context": "Over the next few years, Einstein and a fellow student, Mileva Marić, spent many hours discussing their shared interests and learning about topics in physics not covered in the polytechnic school's lectures.",
+    "instruction": "Who was Einstein's fellow student, and what did they discuss and learn about in physics?"
+  },
+  {
+    "context": "In his letters to Marić, Einstein confessed that exploring science with her by his side was much more enjoyable than reading a textbook in solitude.",
+    "instruction": "How did Einstein feel about exploring science with Marić?"
+  },
+  {
+    "context": "The two students, Einstein and Marić, eventually became not only friends but also lovers.",
+    "instruction": "What happened between Einstein and Marić as their relationship progressed?"
+  },
+  {
+    "context": "Historians of physics are divided on the question of the extent to which Marić contributed to the insights of Einstein's annus mirabilis publications.",
+    "instruction": "What is the debate among historians regarding Marić's contribution to Einstein's annus mirabilis publications?"
+  },
+  {
+    "context": "Correspondence between Einstein and Marić, discovered and published in 1987, revealed that in early 1902, while Marić was visiting her parents in Novi Sad, she gave birth to a daughter, Lieserl.",
+    "instruction": "What was revealed in the correspondence between Einstein and Marić regarding Lieserl's birth?"
+  },
+  {
+    "context": "In 1912, Einstein entered into a relationship with Elsa Löwenthal, who was both his first cousin on his mother's side and his second cousin on his father's.",
+    "instruction": "Who did Einstein enter into a relationship with in 1912, and what was their relation?"
+  },
+  {
+    "context": "In 1935, Elsa Löwenthal was diagnosed with heart and kidney problems, and she died in December 1936.",
+    "instruction": "What happened to Elsa Löwenthal in 1935, and when did she pass away?"
+  },
+  {
+    "context": "Following an episode of acute mental illness at about the age of twenty, Einstein's son Eduard was diagnosed with schizophrenia.",
+    "instruction": "What happened to Einstein's son Eduard when he was around twenty years old?"
+  },
+  {
+    "context": "Einstein graduated from the Federal Polytechnic School in 1900 and secured a position at the Swiss Patent Office in Bern.",
+    "instruction": "Where did Einstein graduate from in 1900, and where did he secure a position thereafter?"
+  },
+  {
+    "context": "In 1913, German visitors Max Planck and Walther Nernst called upon Einstein in Zurich, hoping to persuade him to relocate to Berlin.",
+    "instruction": "Who visited Einstein in 1913, and what was their proposal?"
+  },
+  {
+    "context": "In 1922, Einstein was awarded the 1921 Nobel Prize in Physics for his services to theoretical physics and his discovery of the law of the photoelectric effect.",
+    "instruction": "Why was Einstein awarded the Nobel Prize in Physics in 1922?"
+  },
+    {
+    "context": "Bose derived the Planck spectrum in 1924.",
+    "instruction": "What did Bose achieve in 1924?"
+  },
+  {
+    "context": "In 1907, Einstein reached a milestone on his long journey from his special theory of relativity to a new idea of gravitation with the formulation of his equivalence principle.",
+    "instruction": "What milestone did Einstein reach in 1907 regarding his theory of gravitation?"
+  },
+  {
+    "context": "In 1911, he used the equivalence principle to estimate the amount by which a ray of light from a distant star would be bent by the gravitational pull of the sun.",
+    "instruction": "How did Einstein apply the equivalence principle in 1911?"
+  },
+  {
+    "context": "A total eclipse of the sun that took place on 29 May 1919 provided an opportunity to put his theory of gravitational lensing to the test.",
+    "instruction": "When did Einstein test his theory of gravitational lensing, and how?"
+  },
+  {
+    "context": "In 1922, Einstein traveled to the old world rather than the new, devoting six months to a tour of Asia.",
+    "instruction": "Where did Einstein travel in 1922, and what was the purpose of his tour?"
+  },
+  {
+    "context": "In December 1930, Einstein began another significant sojourn in the United States, drawn back by the offer of a two-month research fellowship at the California Institute of Technology.",
+    "instruction": "What brought Einstein back to the United States in December 1930?"
+  },
+  {
+    "context": "In February 1933, while on a visit to the United States, Einstein knew he could not return to Germany with the rise of the Nazis.",
+    "instruction": "What prompted Einstein to decide not to return to Germany in February 1933?"
+  },
+  {
+    "context": "In 1939, a group of Hungarian scientists, including émigré physicist Leó Szilárd, attempted to alert Washington to ongoing Nazi atomic bomb research.",
+    "instruction": "What did a group of Hungarian scientists, including Leó Szilárd, attempt to do in 1939?"
+  },
+  {
+    "context": "In 1954, a year before his death, Einstein said to his old friend, Linus Pauling, 'I made one great mistake in my life when I signed the letter to President Roosevelt recommending that atom bombs be made.'",
+    "instruction": "What did Einstein express regret about in 1954 regarding a letter to President Roosevelt?"
+  },
+      {
+        "instruction": "Provide information about Einstein's political views.",
+        "context": "In 1955, Einstein and ten other intellectuals and scientists, including British philosopher Bertrand Russell, signed a manifesto highlighting the danger of nuclear weapons. In 1960, Einstein was included posthumously as a charter member of the World Academy of Art and Science (WAAS), an organization founded by distinguished scientists and intellectuals who committed themselves to the responsible and ethical advances of science, particularly in light of the development of nuclear weapons. Einstein's political views evolved over time..."
+    },
+    {
+        "instruction": "Detail Einstein's contributions to physics.",
+        "context": "Einstein made groundbreaking contributions to physics. In 1905, he published the special theory of relativity, introducing the famous equation E=mc². In 1915, he developed the general theory of relativity, revolutionizing our understanding of gravity. Additionally, he collaborated on projects like Bose-Einstein statistics and the Einstein refrigerator. He also published more than 300 scientific papers and 150 non-scientific ones..."
+    },
+    {
+        "instruction": "Describe Einstein's involvement in civil rights.",
+        "context": "Einstein joined the National Association for the Advancement of Colored People (NAACP) in Princeton, where he campaigned for the civil rights of African Americans. He considered racism America's 'worst disease,' and as part of his involvement, he corresponded with civil rights activist W.E.B. Du Bois. Einstein visited Lincoln University in 1946, a historically black college, where he was awarded an honorary degree. Einstein has said, 'Being a Jew myself, perhaps I can understand and empathize with how black people feel as victims of discrimination'..."
+    },
+    {
+        "instruction": "Explain Einstein's views on religion and God.",
+        "context": "Einstein had a unique perspective on religion. In a letter to philosopher Eric Gutkind in 1954, he wrote, 'The word God is for me nothing more than the expression and product of human weaknesses.' He considered organized religion as 'childish superstitions' and described himself as an agnostic or a 'deeply religious nonbeliever.' He believed in an impersonal pantheistic God and did not subscribe to the idea of a personal God concerned with human affairs..."
+    },
+    {
+        "instruction": "Discuss Einstein's stance on vegetarianism.",
+        "context": "Einstein was sympathetic toward vegetarianism. In a letter in 1930, he wrote: 'Although I have been prevented by outward circumstances from observing a strictly vegetarian diet, I have long been an adherent to the cause in principle.' He believed that a vegetarian manner of living would most beneficially influence the temperament of mankind. Einstein himself became a vegetarian later in life and expressed feeling well without fats, meat, or fish..."
+    },
+    {
+        "instruction": "Explore Einstein's connection to music.",
+        "context": "Einstein had a deep appreciation for music. He wrote in his late journals: 'If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music.' His mother played the piano, and he began playing the violin at the age of 5. Music played a pivotal role in his life, and he continued to engage in chamber music throughout his adulthood, playing with professionals and enjoying its profound meaning..."
+    },
+    {
+        "instruction": "Provide details about Einstein's death and legacy.",
+        "context": "Einstein experienced internal bleeding caused by the rupture of an abdominal aortic aneurysm on April 17, 1955. He refused surgery, stating, 'I want to go when I want. It is tasteless to prolong life artificially.' Einstein died in the Princeton hospital at the age of 76. His brain was preserved without family permission for future neuroscience research. Einstein bequeathed his personal archives to the Hebrew University of Jerusalem. Throughout his life, he published hundreds of books and articles, and his intellectual achievements made the word 'Einstein' synonymous with 'genius.'"
+    },
+      {
+        "instruction": "Explain Einstein's contributions to the theory of general relativity.",
+        "context": "The Einstein field equations cover the latter aspect of the theory, relating the curvature of spacetime to the distribution of matter and energy. The geodesic equation covers the former aspect, stating that freely falling bodies follow lines that are as straight as possible in a curved spacetime. Einstein regarded this as an 'independent fundamental assumption' that had to be postulated in addition to the field equations in order to complete the theory. He proposed that the field equations would determine the path of a singular solution, like a black hole, to be a geodesic."
+    },
+    {
+        "instruction": "Discuss Einstein's early views on light and the acceptance of his light quanta theory.",
+        "context": "In a 1905 paper, Einstein postulated that light itself consists of localized particles (quanta). However, his light quanta were nearly universally rejected by all physicists, including Max Planck and Niels Bohr. This idea only became universally accepted in 1919, with Robert Millikan's detailed experiments on the photoelectric effect and the measurement of Compton scattering. Einstein concluded that each wave of frequency f is associated with a collection of photons with energy hf each, where h is Planck's constant."
+    },
+    {
+        "instruction": "Detail Einstein's contributions to quantum mechanics and his role in the development of the photon concept.",
+        "context": "In 1907, Einstein proposed a model of matter where each atom in a lattice structure is an independent harmonic oscillator. This model, although acknowledging the difficulty of obtaining the frequency of actual oscillations, demonstrated that quantum mechanics could solve the specific heat problem in classical mechanics. Einstein's work on the photoelectric effect in 1905 introduced the photon concept, inspiring the notion of wave-particle duality in quantum mechanics. His 1909 paper on the quantization of light further contributed to the development of quantum theory."
+    },
+    {
+        "instruction": "Explore Einstein's engagement with Bose-Einstein statistics and the Bose-Einstein condensate phenomenon.",
+        "context": "In 1924, Einstein received a description of a statistical model from Indian physicist Satyendra Nath Bose, based on a counting method that assumed light could be understood as a gas of indistinguishable particles. Einstein noted that Bose's statistics applied to some atoms as well, and he published articles describing the model and its implications. Among them was the Bose-Einstein condensate phenomenon, predicting that some particulates should appear at very low temperatures. The first such condensate was experimentally produced in 1995 by Eric Allin Cornell and Carl Wieman."
+    },
+    {
+        "instruction": "Discuss Einstein's contributions to the understanding of wave-particle duality and quantum entanglement.",
+        "context": "Einstein played a major role in developing quantum theory, starting with his 1905 paper on the photoelectric effect. However, he became displeased with modern quantum mechanics as it evolved after 1925, despite its acceptance by other physicists. He was skeptical that the randomness of quantum mechanics was fundamental rather than the result of determinism, stating that God 'is not playing at dice.' The Bohr-Einstein debates, especially in 1930, reflected Einstein's ongoing skepticism. He proposed a thought experiment and later the EPR paradox, arguing against the instantaneous transmission of information, which he deemed incompatible with the theory of relativity."
+    },
+    {
+        "instruction": "Provide information about Einstein's academic career and his contributions to academia despite working at the patent office.",
+        "context": "Although the patent office promoted Einstein to technical examiner second class in 1906, he had not given up on academia. In 1908, he became a Privatdozent at the University of Bern. His notable works include the 1909 paper on the quantization of light and the development of views on the composition and essence of radiation. Einstein's academic pursuits continued alongside his work at the patent office, and he played a crucial role in various advancements in physics, contributing significantly to the development of quantum mechanics and the theory of relativity."
+    },
+  {
+    "context": "Einstein proposed a new theory of gravitation known as the general theory of relativity.",
+    "instruction": "Explain Einstein's general theory of relativity."
+  },
+  {
+    "context": "What is the significance of E=mc²?",
+    "instruction": "Explain the significance of the equation E=mc²."
+  },
+  {
+    "context": "Quantum mechanics is a fundamental theory in physics that describes the behavior of nature at and below the scale of atoms.",
+    "instruction": "Provide an overview of quantum mechanics."
+  },
+  {
+    "context": "Describe the key experiments that led to the development of quantum mechanics.",
+    "instruction": "Detail the key experiments leading to the development of quantum mechanics."
+  },
+  {
+    "context": "What was Einstein's approach to unifying physics?",
+    "instruction": "Examine Einstein's approach to unifying physics."
+  },
+  {
+    "context": "Einstein made some mistakes, including errors in his derivations and the addition of a cosmological constant in General Relativity.",
+    "instruction": "Discuss some mistakes made by Einstein in his scientific career."
+  },
+  {
+    "context": "Explain the phenomenon of quantum entanglement and its applications.",
+    "instruction": "Provide a detailed explanation of quantum entanglement and its applications."
+  },
+  {
+    "context": "Einstein's brain has been a subject of much research and speculation.",
+    "instruction": "Explore the studies on Einstein's brain and the speculations surrounding it."
+  },
+  {
+    "context": "Einstein's autopsy was conducted by Thomas Stoltz Harvey. After Einstein's death in 1955, Harvey removed and weighed the brain at 1230g. He dissected the brain into several pieces and hoped that the study of brain cells (cytoarchitectonics) would reveal useful information. Harvey injected formalin into the internal carotid arteries and photographed the brain from many angles.",
+    "instruction": "Explain the process of Einstein's autopsy and the initial handling of his brain."
+  },
+  {
+    "context": "Harvey dissected the brain into about 240 blocks, encasing them in collodion. He also removed Einstein's eyes, giving them to Henry Abrams, Einstein's ophthalmologist. The preservation of Einstein's brain without prior consent is disputed, with conflicting statements from sources.",
+    "instruction": "Discuss the details of the dissection process, the encasement of brain blocks, and the controversy surrounding the preservation of Einstein's brain."
+  },
+  {
+    "context": "In 1978, journalist Steven Levy rediscovered Einstein's brain in Harvey's possession. The brain sections had been preserved in alcohol in two large mason jars within a cider box for over 20 years. The brain was later transferred to the National Museum of Health and Medicine in 2010.",
+    "instruction": "Detail the rediscovery of Einstein's brain by Steven Levy, including the condition in which it was found and its subsequent transfer to the National Museum of Health and Medicine."
+  },
+  {
+    "context": "More recently, 46 small portions of Einstein's brain were acquired by the Mütter Museum in Philadelphia. In 2013, segments of the brain went on exhibit in the museum's permanent galleries, featuring thin slices of Einstein's brain mounted on microscope slides.",
+    "instruction": "Discuss the acquisition of portions of Einstein's brain by the Mütter Museum, the exhibition of brain segments, and the presentation format."
+  },
+  {
+    "context": "Harvey reported that Einstein had no parietal operculum in either hemisphere, but this finding has been disputed. In 1999, McMaster University's analysis revealed a vacant parietal operculum region in the inferior frontal gyrus, speculating on its impact on Einstein's thinking.",
+    "instruction": "Examine the controversy around Harvey's findings on Einstein's brain anatomy, including disputes and the subsequent analysis by McMaster University."
+  },
+  {
+    "context": "University of California, Berkeley professor Marian Diamond received four sections of the cortical association regions of Einstein's brain in the 1980s. Diamond's research compared the ratio of glial cells in Einstein's brain to that of 11 other males, highlighting differences in the left inferior parietal area.",
+    "instruction": "Explore the research conducted by Marian Diamond, focusing on the comparison of glial cells in Einstein's brain and its significance."
+  },
+  {
+    "context": "Dr. Dahlia Zaidel of the University of California, Los Angeles, examined two slices of Einstein's brain containing the hippocampus in 2001. The study revealed larger neurons on the left side, suggesting stronger nerve cell connections and potential implications for Einstein's thinking.",
+    "instruction": "Provide a detailed explanation of Dr. Dahlia Zaidel's examination of Einstein's brain slices, particularly focusing on the hippocampus and its implications."
+  },
+  {
+    "context": "Several studies, including those analyzing Einstein's corpus callosum and unpublished photographs of his brain, have provided insights into its unique features. However, critiques from neurologist Terence Hines question the validity of such studies.",
+    "instruction": "Summarize various studies on Einstein's brain, including the analysis of the corpus callosum and unpublished photographs, and address critiques from neurologist Terence Hines."
+  },
+  {
+    "context": "The preservation of geniuses' brains, such as Gauss, Lenin, and Ishi, has historical precedent. The story of Harvey's theft of Einstein's brain was featured in the Science Channel's Dark Matters: Twisted But True and The Man Who Stole Einstein's Brain in 2023.",
+    "instruction": "Examine the historical context of preserving geniuses' brains and discuss the media coverage of Harvey's theft of Einstein's brain."
+  }
+]
